@@ -1,0 +1,10 @@
+
+1000 REM ===============
+1005 REM TITLE <a meaningful titls of program>
+FILENAME: <filename.prg>
+Author <your alias or name>
+contact <email address>
+1010 REM ===============
+1020 REM REF: <origin of code eg titlr of book or my creation> 
+1030 REM PLACE REM THROUGHOUT THE CODE TO HELP OTHERS THAT READ YOUR CODE
+

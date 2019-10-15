@@ -5,10 +5,10 @@
 #  Commander X16 e-Magazine Contributors repo
 
 # Introduction
-This repo is to store the Contributors articles and files before they are published in the Retro Magazine.
+This repo is to store the Contributors articles and files before they are published in the Retro e-Magazine.
 
 # Contributors
-Please read the styles document and use the template before contributing 
+Please read the style-guides documents and use the contribution template before contributing. 
 
 # Tutorials:
 ## BASIC Language
