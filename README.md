@@ -1,4 +1,5 @@
-<img src="https://cldup.com/ldK0mW2kct.png" alt="Commander X16" width="100" height="100">  
+<img src="https://cldup.com/ldK0mW2kct.png" alt="Commander X16" width="100" height="100">
+  
 [Commander X16](http://commanderx16.com)
 
 #  Commander X16 e-Magazine Contributors repo
